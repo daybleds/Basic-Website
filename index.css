@@ -1,0 +1,30 @@
+#ProfilePic{
+	border-radius: 100%;
+	width: 200px;
+	height: 200px;
+	padding: 0px;
+}
+.CenterText{
+	text-align: center;
+}
+section{
+	width: 100%;
+	padding: 20%;
+	padding-top: 0%;
+}
+.column{
+	display: inline-block;
+	width: 30%;
+	margin: 0px;
+	vertical-align: top;
+}
+.Button{
+	display: inline-block;
+	width: 15%;
+	vertical-align: top;
+	margin: 0px;
+}
+.buttons{
+	padding-left: 22%;
+	padding-right: 22%;
+}
